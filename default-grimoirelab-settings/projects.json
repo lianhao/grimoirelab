@@ -1,10 +1,67 @@
 {
-    "grimoirelab": {
+    "opea": {
       "meta": {
-        "title": "GrimoireLab"
+        "title": "OPEA"
       },
       "git": [
-          "https://github.com/chaoss/grimoirelab.git"
-        ]
+          "https://github.com/opea-project/GenAIExamples.git",
+          "https://github.com/opea-project/GenAIComps.git",
+          "https://github.com/opea-project/GenAIInfra.git",
+          "https://github.com/opea-project/GenAIEval.git",
+          "https://github.com/opea-project/docs.git",
+          "https://github.com/opea-project/Validation.git",
+          "https://github.com/opea-project/Security-Working-Group.git",
+	  "https://github.com/opea-project/opea-project.github.io.git"
+      ],
+      "github:issue": [
+          "https://github.com/opea-project/GenAIExamples",
+          "https://github.com/opea-project/GenAIComps",
+          "https://github.com/opea-project/GenAIInfra",
+          "https://github.com/opea-project/GenAIEval",
+          "https://github.com/opea-project/docs",
+          "https://github.com/opea-project/Validation",
+          "https://github.com/opea-project/Security-Working-Group",
+	  "https://github.com/opea-project/opea-project.github.io"
+      ],
+      "github2:issue": [
+          "https://github.com/opea-project/GenAIExamples",
+          "https://github.com/opea-project/GenAIComps",
+          "https://github.com/opea-project/GenAIInfra",
+          "https://github.com/opea-project/GenAIEval",
+          "https://github.com/opea-project/docs",
+          "https://github.com/opea-project/Validation",
+          "https://github.com/opea-project/Security-Working-Group",
+	  "https://github.com/opea-project/opea-project.github.io"
+      ],
+      "github:pull": [
+          "https://github.com/opea-project/GenAIExamples",
+          "https://github.com/opea-project/GenAIComps",
+          "https://github.com/opea-project/GenAIInfra",
+          "https://github.com/opea-project/GenAIEval",
+          "https://github.com/opea-project/docs",
+          "https://github.com/opea-project/Validation",
+          "https://github.com/opea-project/Security-Working-Group",
+	  "https://github.com/opea-project/opea-project.github.io"
+      ],
+      "github2:pull": [
+          "https://github.com/opea-project/GenAIExamples",
+          "https://github.com/opea-project/GenAIComps",
+          "https://github.com/opea-project/GenAIInfra",
+          "https://github.com/opea-project/GenAIEval",
+          "https://github.com/opea-project/docs",
+          "https://github.com/opea-project/Validation",
+          "https://github.com/opea-project/Security-Working-Group",
+	  "https://github.com/opea-project/opea-project.github.io"
+      ],
+      "github:repo": [
+          "https://github.com/opea-project/GenAIExamples",
+          "https://github.com/opea-project/GenAIComps",
+          "https://github.com/opea-project/GenAIInfra",
+          "https://github.com/opea-project/GenAIEval",
+          "https://github.com/opea-project/docs",
+          "https://github.com/opea-project/Validation",
+          "https://github.com/opea-project/Security-Working-Group",
+	  "https://github.com/opea-project/opea-project.github.io"
+      ]
     }
   }
